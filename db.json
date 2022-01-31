@@ -1,10 +1,4 @@
 {
   "users": [
-    {
-      "firstName": "Albert",
-      "lastName": "Einstein",
-      "cpf": "324.554.545-46",
-      "id": 1
-    }
   ]
 }
